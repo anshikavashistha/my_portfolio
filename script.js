@@ -37,7 +37,7 @@ $(document).ready(function() {
     });
 
     $('.pro1').click(function() {
-        window.open('https://github.com/anshikavashistha/Chest-Ray-segmentation');
+        window.open('https://sky-snap-theta.vercel.app/');
     });
 
     $('.pro2').click(function() {
