@@ -41,11 +41,11 @@ $(document).ready(function() {
     });
 
     $('.pro2').click(function() {
-        window.open('https://github.com/CareBridge-HealthConnect-for-All/CareBridge');
+        window.open('https://e-votingdapp.netlify.app/');
     });
 
     $('.pro3').click(function() {
-        window.open('https://github.com/anshikavashistha/Kavach');
+        window.open('https://github.com/anshikavashistha/CRUD-application-using-GO/tree/main');
     });
     $('.pro4').click(function() {
         window.open(' ');
